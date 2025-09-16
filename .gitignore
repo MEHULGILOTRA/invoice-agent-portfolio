@@ -1,3 +1,22 @@
+# Python
 __pycache__/
-.env
+*.py[cod]
+*.pyo
+*.pyd
 venv/
+.env
+
+# Node.js / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend outputs / temporary files
+backend/output/
+
+# OS / IDE
+.DS_Store
+*.log
+*.swp
+.idea/
+.vscode/
