@@ -28,7 +28,7 @@
 ## 📥 Installation & Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/invoice-agent-portfolio.git
+git clone https://github.com/MEHULGILOTRA/invoice-agent-portfolio.git
 cd invoice-agent-portfolio
 
 python3 -m venv venv
