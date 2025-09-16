@@ -1,0 +1,12 @@
+langchain
+langgraph
+transformers
+torch
+sentence-transformers
+tesseract
+pytesseract
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+react
