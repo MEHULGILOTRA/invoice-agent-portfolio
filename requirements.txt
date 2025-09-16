@@ -10,3 +10,5 @@ uvicorn
 pydantic
 sqlalchemy
 react
+langchain-community
+langchain-openai
