@@ -12,3 +12,5 @@ sqlalchemy
 react
 langchain-community
 langchain-openai
+pillow
+pdf2image
